@@ -6,9 +6,9 @@ Sistema de gestión de parqueadero desarrollado en **Java** con arquitectura ori
 
 ## Tecnologías utilizadas
 
-![Java](https://img.shields.io/badge/Java-17-ED8B00?logo=openjdk&logoColor=white)
-![Apache Ant](https://img.shields.io/badge/Apache_Ant-BUILD-A81C7D?logo=apache-ant&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-IDE-1B6AC6?logo=apache-netbeans-ide&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-17-ED8B00?logo=openjdk&logoColor=white)](https://openjdk.org/)
+[![Apache Ant](https://img.shields.io/badge/Apache_Ant-BUILD-A81C7D?logo=apache-ant&logoColor=white)](https://ant.apache.org/)
+[![NetBeans](https://img.shields.io/badge/NetBeans-IDE-1B6AC6?logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/)
 
 ---
 
